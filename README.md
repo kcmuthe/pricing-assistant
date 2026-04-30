@@ -1,1 +1,1 @@
-# pricing-assistant
+This product pricing assistant provides a system for small businesses to use to track a products cost, base price, discount and sales tax. It also computes profit per unit and the break-even quantity for fixed monthly costs. 
